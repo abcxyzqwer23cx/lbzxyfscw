@@ -7,8 +7,8 @@ const crypto = require('crypto');
 // ----------------------------- CONFIG -----------------------------
 const config = {
   domain: process.env.DOMAIN || 'https://lubzy.queen-priv.my.id',
-  apikey: process.env.PTLA || process.env.PTLA || 'ptla_WdM8HY38B9m5bI8QpeJxAUltHLkvZB6TvbjuoEGy9Sm',
-  capikey: process.env.PTLC || process.env.PTLC || 'ptlc_Pfr13MOeqQsLTFsSawYaIbQgNBRty67r6nBRyuwmgF7',
+  apikey: process.env.PTLA || process.env.PTLA || 'ptla_1oOeVGCFCLWUjWrBNRKfdF2Bmwrj76WKp9j7v4Crdiy',
+  capikey: process.env.PTLC || process.env.PTLC || 'ptlc_xjb4HCvj1pfD1RDhgOqAiOTNBYhyzvmLZGEHTqn9AWS',
   eggid: process.env.EGGID || '15',
   nestid: process.env.NESTID || '5',
   location: process.env.LOC || '1',
